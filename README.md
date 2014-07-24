@@ -1,4 +1,2 @@
-php
-===
-
-Malemolências com PHP
+Configurações sob controle com PHP
+=================================
